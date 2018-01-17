@@ -1,0 +1,8 @@
+mBlog/bin
+mBlog/lib
+mBlog/include
+mBlog/lib64
+mBlog/pip-selfcheck.json
+mBlog/pyvenv.cfg
+mBlog/share
+DBDEV01/*
